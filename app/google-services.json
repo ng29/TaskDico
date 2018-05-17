@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567969802471",
+    "firebase_url": "https://shoplistplusplus-ng.firebaseio.com",
+    "project_id": "shoplistplusplus-ng",
+    "storage_bucket": "shoplistplusplus-ng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567969802471:android:c1a1d3f40992f746",
+        "android_client_info": {
+          "package_name": "com.example.nitin.logicaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567969802471-b5e1ue3fieeupg96tma10umom9atar8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitin.logicaltest",
+            "certificate_hash": "69af28cde2f983614ab378c54cfe9e9217702f98"
+          }
+        },
+        {
+          "client_id": "567969802471-obhtt60emjetn3j2i6vou1257ha0869u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOde9RRKIgw1KpTAUSHt31i_ZEeYScN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567969802471-obhtt60emjetn3j2i6vou1257ha0869u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
